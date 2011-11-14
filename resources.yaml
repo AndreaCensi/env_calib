@@ -1,0 +1,27 @@
+---
+dir: ./
+url: git@github.com:AndreaCensi/pbenv.git
+---
+dir: ./src/contracts
+url: git@github.com:AndreaCensi/contracts.git
+---
+dir: ./src/stochastic_testing
+url: git@github.com:AndreaCensi/stochastic_testing.git
+---
+dir: ./src/geometry
+url: git@github.com:AndreaCensi/geometry.git
+---
+dir: ./src/procgraph
+url: git@github.com:AndreaCensi/procgraph.git
+---
+dir: ./src/compmake 
+url: git@github.com:AndreaCensi/compmake.git
+---
+dir: ./src/reprep 
+url: git@github.com:AndreaCensi/reprep.git
+---
+dir: ./src/latex
+url: 'git@github.com:AndreaCensi/latex_gen.git'
+---
+dir: ./src/cbc
+url: git@github.com:AndreaCensi/cbc.git

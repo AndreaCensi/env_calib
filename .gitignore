@@ -1,0 +1,8 @@
+.project
+.pydevproject
+deploy
+out
+src
+build
+.compmake_history.txt
+environment.sh

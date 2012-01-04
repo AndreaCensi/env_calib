@@ -6,3 +6,4 @@ src
 build
 .compmake_history.txt
 environment.sh
+.settings

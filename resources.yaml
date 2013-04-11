@@ -7,9 +7,9 @@ url: git@github.com:AndreaCensi/contracts.git
 ---
 dir: ./src/conf_tools
 url: git@github.com:AndreaCensi/conf_tools.git
----
-dir: ./src/stochastic_testing
-url: git@github.com:AndreaCensi/stochastic_testing.git
+# --- # not really necessary
+# dir: ./src/stochastic_testing
+# url: git@github.com:AndreaCensi/stochastic_testing.git
 ---
 dir: ./src/geometry
 url: git@github.com:AndreaCensi/geometry.git
@@ -23,7 +23,7 @@ url: git@github.com:AndreaCensi/compmake.git
 dir: ./src/reprep 
 url: git@github.com:AndreaCensi/reprep.git
 ---
-dir: ./src/latex
+dir: ./src/latex_gen
 url: 'git@github.com:AndreaCensi/latex_gen.git'
 ---
 dir: ./src/cbc

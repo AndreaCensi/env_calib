@@ -1,0 +1,8 @@
+- git: {local-name: src/contracts, uri: 'git@github.com:AndreaCensi/contracts.git'}
+- git: {local-name: src/conf_tools, uri: 'git@github.com:AndreaCensi/conf_tools.git'}
+- git: {local-name: src/geometry, uri: 'git@github.com:AndreaCensi/geometry.git'}
+- git: {local-name: src/procgraph, uri: 'git@github.com:AndreaCensi/procgraph.git'}
+- git: {local-name: src/compmake, uri: 'git@github.com:AndreaCensi/compmake.git'}
+- git: {local-name: src/reprep, uri: 'git@github.com:AndreaCensi/reprep.git'}
+- git: {local-name: src/latex_gen, uri: 'git@github.com:AndreaCensi/latex_gen.git'}
+- git: {local-name: src/cbc, uri: 'git@github.com:AndreaCensi/cbc.git'}

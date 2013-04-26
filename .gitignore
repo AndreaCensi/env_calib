@@ -7,3 +7,4 @@ build
 .compmake_history.txt
 environment.sh
 .settings
+src-third

@@ -1,15 +1,12 @@
 ---
 dir: ./
-url: git@github.com:AndreaCensi/calib_env.git
+url: git@github.com:AndreaCensi/env_calib.git
 ---
 dir: ./src/contracts
 url: git@github.com:AndreaCensi/contracts.git
 ---
 dir: ./src/conf_tools
 url: git@github.com:AndreaCensi/conf_tools.git
-# --- # not really necessary
-# dir: ./src/stochastic_testing
-# url: git@github.com:AndreaCensi/stochastic_testing.git
 ---
 dir: ./src/geometry
 url: git@github.com:AndreaCensi/geometry.git
@@ -28,6 +25,9 @@ url: 'git@github.com:AndreaCensi/latex_gen.git'
 ---
 dir: ./src/cbc
 url: git@github.com:AndreaCensi/cbc.git
+# --- # not really necessary
+# dir: ./src/stochastic_testing
+# url: git@github.com:AndreaCensi/stochastic_testing.git
 
 # https://AndreaCensi@github.com/AndreaCensi/calib_env.git
 # https://github.com/PyTables/PyTables.git

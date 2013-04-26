@@ -53,6 +53,14 @@ Now install all the python packages. You need to install them in this order.
     $ cd $calib_ROOT/src/cbc; python setup.py develop
 
 
+Installing OpenCV on OS X
+-------------------------
+
+Make sure you give it the right python location, e.g.:
+
+    cmake . -DPYTHON_LIBRARY=$EPD/lib/libpython2.7.dylib  -DPYTHON_LIBRARIES=$EPD/lib/libpython2.7.dylib  -DCMAKE_INSTALL_PREFIX=../../deploy
+
+
 Preparing the data
 ------------------
 

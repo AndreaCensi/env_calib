@@ -4,30 +4,39 @@ url: git@github.com:AndreaCensi/env_calib.git
 ---
 dir: ./src/contracts
 url: git@github.com:AndreaCensi/contracts.git
+branch: env_calib
 ---
 dir: ./src/conf_tools
 url: git@github.com:AndreaCensi/conf_tools.git
+branch: env_calib
 ---
 dir: ./src/geometry
 url: git@github.com:AndreaCensi/geometry.git
+branch: env_calib
 ---
 dir: ./src/procgraph
 url: git@github.com:AndreaCensi/procgraph.git
+branch: env_calib
 ---
 dir: ./src/compmake 
 url: git@github.com:AndreaCensi/compmake.git
+branch: env_calib
 ---
 dir: ./src/reprep 
 url: git@github.com:AndreaCensi/reprep.git
+branch: env_calib
 ---
 dir: ./src/astatsa 
 url: git@github.com:AndreaCensi/astatsa.git
+branch: env_calib
 ---
 dir: ./src/latex_gen
-url: 'git@github.com:AndreaCensi/latex_gen.git'
+url: git@github.com:AndreaCensi/latex_gen.git
+branch: env_calib
 ---
 dir: ./src/cbc
 url: git@github.com:AndreaCensi/cbc.git
+branch: env_calib
 # --- # not really necessary
 # dir: ./src/stochastic_testing
 # url: git@github.com:AndreaCensi/stochastic_testing.git

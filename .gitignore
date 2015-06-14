@@ -9,3 +9,6 @@ environment.sh
 .settings
 src-third
 ws.grace
+cov_remember.pickle
+ws.grace
+ws.grace-jan2015
